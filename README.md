@@ -8,7 +8,7 @@ Codes for NodeMCU ESP8266 Wi-Fi
 
 ## Contributors
 
-Main author: [Lorran Pegoretti](mailto:lorranpego@gmail.com)
+Main author: [André Luiz](mailto:andre.eddie@gmail.com)
 
 
 ## License
